@@ -1,0 +1,1154 @@
+2024-10-30 17:08:32,127 - INFO - HTTP Request: GET https://cmr-optimade.fysik.dtu.dk/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 302 Found"
+2024-10-30 17:08:32,137 - INFO - HTTP Request: GET http://optimade.openmaterialsdb.se/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:08:32,202 - INFO - HTTP Request: GET https://aiida.materialscloud.org/mc3d/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:08:32,220 - INFO - HTTP Request: GET https://aiida.materialscloud.org/2dtopo/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:08:32,246 - INFO - HTTP Request: GET https://aiida.materialscloud.org/autowannier/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:08:32,257 - INFO - HTTP Request: GET https://optimade.materialscloud.org/archive/c8-gy/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:08:32,276 - INFO - HTTP Request: GET https://aiida.materialscloud.org/tin-antimony-sulfoiodide/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:08:32,292 - INFO - HTTP Request: GET https://aiida.materialscloud.org/tc-applicability/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:08:32,306 - INFO - HTTP Request: GET https://aflow.org/API/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 BAD REQUEST"
+2024-10-30 17:08:32,306 - INFO - HTTP Request: GET https://c2db.fysik.dtu.dk/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 200 OK"
+2024-10-30 17:08:32,306 - INFO - HTTP Request: GET https://optimade.materialscloud.org/archive/5p-vq/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:08:32,332 - INFO - HTTP Request: GET https://aiida.materialscloud.org/curated-cofs/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:08:32,358 - INFO - HTTP Request: GET https://aiida.materialscloud.org/stoceriaitf/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:08:32,375 - INFO - HTTP Request: GET https://aiida.materialscloud.org/mc2d/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:08:32,464 - INFO - HTTP Request: GET https://jarvis.nist.gov/optimade/jarvisdft/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 301 Moved Permanently"
+2024-10-30 17:08:32,511 - INFO - HTTP Request: GET http://optimade.2dmatpedia.org/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:08:32,561 - INFO - HTTP Request: GET http://mpod_optimade.cimav.edu.mx/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:08:32,598 - INFO - HTTP Request: GET https://jarvis.nist.gov/optimade/jarvisdft/v1/structures/?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 200 OK"
+2024-10-30 17:08:32,624 - INFO - HTTP Request: GET https://aiida.materialscloud.org/pyrene-mofs/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:08:32,884 - INFO - HTTP Request: GET https://api.mpds.io/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 200 OK"
+2024-10-30 17:08:33,387 - INFO - HTTP Request: GET https://alexandria.icams.rub.de/pbesol/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:08:33,562 - INFO - HTTP Request: GET http://mpddoptimade.phaseslab.org/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:08:33,842 - INFO - HTTP Request: GET https://optimade.materialsproject.org/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:08:34,311 - INFO - HTTP Request: GET https://nomad-lab.eu/prod/rae/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 200 OK"
+2024-10-30 17:08:36,240 - INFO - HTTP Request: GET https://alexandria.icams.rub.de/pbe/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:08:37,075 - INFO - HTTP Request: GET https://optimade.materialscloud.org/archive/vg-ya/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:08:37,423 - INFO - HTTP Request: GET https://oqmd.org/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 200 OK"
+2024-10-30 17:08:37,455 - INFO - Successfully fetched structures from OPTIMADE providers.
+2024-10-30 17:08:37,460 - ERROR - Errors encountered for https://aflow.org/API/optimade/: ['RuntimeError: 400 - https://aflow.org/API/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: b\'{"errors": {"status": "Bad Request", "code": 400, "reason": "The property cell_volume is not known."}, "meta": {"query": {"representation": "/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz"}, "api_version": "1.1.0", "schema": "https://schemas.optimade.org/openapi/v1.1.0/optimade.json", "time_stamp": "2024-10-30T17:08:32Z", "more_data_available": false, "provider": {"name": "AFLOW", "description": "Automatic-FLOW (AFLOW) Computational Materials Data Repository", "prefix": "aflow", "homepage": "https://aflow.org"}, "implementation": {"name": "aflow-optimade-ng", "version": "ada0d743", "source_url": "https://aflow.org/install-aflow", "maintainer": {"email": "optimade@aflowlib.duke.edu"}, "issue_tracker": "https://groups.io/g/aflow"}, "data_available": 3530330, "data_returned": 0}}\'']
+2024-10-30 17:08:37,460 - ERROR - Errors encountered for https://alexandria.icams.rub.de/pbesol: ["RuntimeError: 400 - https://alexandria.icams.rub.de/pbesol/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'space_group_symmetry_operations_xyz', 'cell_volume', 'cell_formula_units_Z', 'space_group_it_number', 'space_group_symbol_hermann_mauguin'}."]
+2024-10-30 17:08:37,460 - ERROR - Errors encountered for https://alexandria.icams.rub.de/pbe: ["RuntimeError: 400 - https://alexandria.icams.rub.de/pbe/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'space_group_it_number', 'cell_formula_units_Z', 'cell_volume', 'space_group_symbol_hermann_mauguin', 'space_group_symmetry_operations_xyz'}."]
+2024-10-30 17:08:37,460 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=0, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:08:37,460 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=1, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:08:37,460 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=2, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:08:37,460 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=3, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:08:37,461 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:08:37,461 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=5, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:08:37,461 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=6, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:08:37,461 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=7, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:08:37,461 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=8, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:08:37,461 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=9, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:08:37,461 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=10, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:08:37,461 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=11, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:08:37,461 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=12, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:08:37,461 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=13, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:08:37,461 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=14, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:08:37,461 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=15, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:08:37,461 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=16, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:08:37,461 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=17, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:08:37,461 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=18, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:08:37,461 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=19, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:08:37,461 - ERROR - Errors encountered for https://aiida.materialscloud.org/mc3d/optimade: ["RuntimeError: 400 - https://aiida.materialscloud.org/mc3d/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'space_group_symbol_hermann_mauguin', 'cell_formula_units_Z', 'space_group_it_number', 'space_group_symmetry_operations_xyz', 'cell_volume'}."]
+2024-10-30 17:08:37,461 - ERROR - Errors encountered for https://aiida.materialscloud.org/mc2d/optimade: ["RuntimeError: 400 - https://aiida.materialscloud.org/mc2d/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'space_group_symmetry_operations_xyz', 'cell_volume', 'space_group_symbol_hermann_mauguin', 'cell_formula_units_Z', 'space_group_it_number'}."]
+2024-10-30 17:08:37,461 - ERROR - Errors encountered for https://aiida.materialscloud.org/2dtopo/optimade: ["RuntimeError: 400 - https://aiida.materialscloud.org/2dtopo/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'space_group_symmetry_operations_xyz', 'cell_formula_units_Z', 'space_group_symbol_hermann_mauguin', 'cell_volume', 'space_group_it_number'}."]
+2024-10-30 17:08:37,461 - ERROR - Errors encountered for https://aiida.materialscloud.org/tc-applicability/optimade: ["RuntimeError: 400 - https://aiida.materialscloud.org/tc-applicability/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'space_group_it_number', 'space_group_symmetry_operations_xyz', 'space_group_symbol_hermann_mauguin', 'cell_formula_units_Z', 'cell_volume'}."]
+2024-10-30 17:08:37,461 - ERROR - Errors encountered for https://aiida.materialscloud.org/pyrene-mofs/optimade: ["RuntimeError: 400 - https://aiida.materialscloud.org/pyrene-mofs/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'space_group_symbol_hermann_mauguin', 'cell_formula_units_Z', 'space_group_it_number', 'cell_volume', 'space_group_symmetry_operations_xyz'}."]
+2024-10-30 17:08:37,462 - ERROR - Errors encountered for https://aiida.materialscloud.org/curated-cofs/optimade: ["RuntimeError: 400 - https://aiida.materialscloud.org/curated-cofs/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'space_group_symmetry_operations_xyz', 'cell_formula_units_Z', 'space_group_it_number', 'cell_volume', 'space_group_symbol_hermann_mauguin'}."]
+2024-10-30 17:08:37,462 - ERROR - Errors encountered for https://aiida.materialscloud.org/stoceriaitf/optimade: ["RuntimeError: 400 - https://aiida.materialscloud.org/stoceriaitf/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'cell_volume', 'space_group_symmetry_operations_xyz', 'space_group_it_number', 'space_group_symbol_hermann_mauguin', 'cell_formula_units_Z'}."]
+2024-10-30 17:08:37,462 - ERROR - Errors encountered for https://aiida.materialscloud.org/autowannier/optimade: ["RuntimeError: 400 - https://aiida.materialscloud.org/autowannier/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'cell_formula_units_Z', 'space_group_it_number', 'space_group_symbol_hermann_mauguin', 'cell_volume', 'space_group_symmetry_operations_xyz'}."]
+2024-10-30 17:08:37,462 - ERROR - Errors encountered for https://aiida.materialscloud.org/tin-antimony-sulfoiodide/optimade: ["RuntimeError: 400 - https://aiida.materialscloud.org/tin-antimony-sulfoiodide/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'cell_volume', 'cell_formula_units_Z', 'space_group_symbol_hermann_mauguin', 'space_group_it_number', 'space_group_symmetry_operations_xyz'}."]
+2024-10-30 17:08:37,462 - ERROR - Errors encountered for https://optimade.materialscloud.org/archive/c8-gy: ["RuntimeError: 400 - https://optimade.materialscloud.org/archive/c8-gy/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'cell_formula_units_Z', 'space_group_symmetry_operations_xyz', 'space_group_symbol_hermann_mauguin', 'space_group_it_number', 'cell_volume'}."]
+2024-10-30 17:08:37,462 - ERROR - Errors encountered for https://optimade.materialscloud.org/archive/5p-vq: ["RuntimeError: 400 - https://optimade.materialscloud.org/archive/5p-vq/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'space_group_it_number', 'cell_volume', 'space_group_symbol_hermann_mauguin', 'cell_formula_units_Z', 'space_group_symmetry_operations_xyz'}."]
+2024-10-30 17:08:37,462 - ERROR - Errors encountered for https://optimade.materialscloud.org/archive/vg-ya: ["RuntimeError: 400 - https://optimade.materialscloud.org/archive/vg-ya/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'space_group_symbol_hermann_mauguin', 'space_group_it_number', 'space_group_symmetry_operations_xyz', 'cell_volume', 'cell_formula_units_Z'}."]
+2024-10-30 17:08:37,462 - ERROR - Errors encountered for https://optimade.materialsproject.org/: ["RuntimeError: 400 - https://optimade.materialsproject.org/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'space_group_it_number', 'space_group_symmetry_operations_xyz', 'cell_formula_units_Z', 'space_group_symbol_hermann_mauguin', 'cell_volume'}."]
+2024-10-30 17:08:37,462 - ERROR - Errors encountered for http://mpddoptimade.phaseslab.org/: ["RuntimeError: 400 - http://mpddoptimade.phaseslab.org/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'cell_volume', 'cell_formula_units_Z', 'space_group_symbol_hermann_mauguin', 'space_group_symmetry_operations_xyz', 'space_group_it_number'}."]
+2024-10-30 17:08:37,462 - ERROR - Error parsing structure: 4 validation errors for StructureResource
+type
+  Input should be 'structures' [type=literal_error, input_value='properties', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/literal_error
+attributes.chemical_formula_reduced
+  Value error, Elements in 'chemical_formula_reduced' must appear in alphabetical order: ['Ga', 'Ni', 'U'] not ['U', 'Ni', 'Ga']. [type=value_error, input_value='UNiGa', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/value_error
+attributes.lattice_vectors
+  List should have at least 3 items after validation, not 0 [type=too_short, input_value=[], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.9/v/too_short
+attributes.structure_features
+  Field required [type=missing, input_value={'immutable_id': 'P152192...'cell parameter change'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-30 17:08:37,462 - ERROR - Error parsing structure: 4 validation errors for StructureResource
+type
+  Input should be 'structures' [type=literal_error, input_value='properties', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/literal_error
+attributes.chemical_formula_reduced
+  Value error, Elements in 'chemical_formula_reduced' must appear in alphabetical order: ['Ga', 'Ni', 'U'] not ['U', 'Ni', 'Ga']. [type=value_error, input_value='UNiGa', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/value_error
+attributes.lattice_vectors
+  List should have at least 3 items after validation, not 0 [type=too_short, input_value=[], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.9/v/too_short
+attributes.structure_features
+  Field required [type=missing, input_value={'immutable_id': 'P152192...'cell parameter change'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-30 17:08:37,462 - ERROR - Error parsing structure: 4 validation errors for StructureResource
+type
+  Input should be 'structures' [type=literal_error, input_value='properties', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/literal_error
+attributes.chemical_formula_reduced
+  Value error, Elements in 'chemical_formula_reduced' must appear in alphabetical order: ['Ga', 'Ni', 'U'] not ['U', 'Ni', 'Ga']. [type=value_error, input_value='UNiGa', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/value_error
+attributes.lattice_vectors
+  List should have at least 3 items after validation, not 0 [type=too_short, input_value=[], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.9/v/too_short
+attributes.structure_features
+  Field required [type=missing, input_value={'immutable_id': 'P152192...'cell parameter change'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-30 17:08:37,462 - ERROR - Error parsing structure: 5 validation errors for StructureResource
+type
+  Input should be 'structures' [type=literal_error, input_value='properties', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/literal_error
+attributes.chemical_formula_reduced
+  String should match pattern '(^$)|^([A-Z][a-z]?([2-9]|[1-9]\d+)?)+$' [type=string_pattern_mismatch, input_value='K0.25TiPb0.5Bi0.25O3', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_pattern_mismatch
+attributes.chemical_formula_anonymous
+  Value error, not enough values to unpack (expected 2, got 0) [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/value_error
+attributes.lattice_vectors
+  List should have at least 3 items after validation, not 0 [type=too_short, input_value=[], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.9/v/too_short
+attributes.structure_features
+  Field required [type=missing, input_value={'immutable_id': 'P152336...ge at phase transition'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-30 17:08:37,462 - ERROR - Error parsing structure: 4 validation errors for StructureResource
+type
+  Input should be 'structures' [type=literal_error, input_value='properties', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/literal_error
+attributes.chemical_formula_reduced
+  String should match pattern '(^$)|^([A-Z][a-z]?([2-9]|[1-9]\d+)?)+$' [type=string_pattern_mismatch, input_value='K0.2TiPb0.4Bi0.2O3', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_pattern_mismatch
+attributes.lattice_vectors
+  List should have at least 3 items after validation, not 0 [type=too_short, input_value=[], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.9/v/too_short
+attributes.structure_features
+  Field required [type=missing, input_value={'immutable_id': 'P152336...ge at phase transition'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-30 17:08:37,462 - ERROR - Error parsing structure: 4 validation errors for StructureResource
+type
+  Input should be 'structures' [type=literal_error, input_value='properties', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/literal_error
+attributes.chemical_formula_reduced
+  Value error, Elements in 'chemical_formula_reduced' must appear in alphabetical order: ['O', 'Pb', 'Ti'] not ['Ti', 'Pb', 'O']. [type=value_error, input_value='TiPbO3', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/value_error
+attributes.lattice_vectors
+  List should have at least 3 items after validation, not 0 [type=too_short, input_value=[], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.9/v/too_short
+attributes.structure_features
+  Field required [type=missing, input_value={'immutable_id': 'P152337...ge at phase transition'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-30 17:08:37,462 - ERROR - Error parsing structure: 4 validation errors for StructureResource
+type
+  Input should be 'structures' [type=literal_error, input_value='properties', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/literal_error
+attributes.chemical_formula_reduced
+  Value error, Elements in 'chemical_formula_reduced' must appear in alphabetical order: ['O', 'Pb', 'Ti'] not ['Ti', 'Pb', 'O']. [type=value_error, input_value='TiPbO3', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/value_error
+attributes.lattice_vectors
+  List should have at least 3 items after validation, not 0 [type=too_short, input_value=[], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.9/v/too_short
+attributes.structure_features
+  Field required [type=missing, input_value={'immutable_id': 'P152337...ge at phase transition'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-30 17:08:37,462 - ERROR - Error parsing structure: 4 validation errors for StructureResource
+type
+  Input should be 'structures' [type=literal_error, input_value='properties', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/literal_error
+attributes.chemical_formula_reduced
+  Value error, Elements in 'chemical_formula_reduced' must appear in alphabetical order: ['O', 'Te'] not ['Te', 'O']. [type=value_error, input_value='TeO2', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/value_error
+attributes.lattice_vectors
+  List should have at least 3 items after validation, not 0 [type=too_short, input_value=[], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.9/v/too_short
+attributes.structure_features
+  Field required [type=missing, input_value={'immutable_id': 'P160118...ence of cell parameter'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-30 17:08:37,462 - ERROR - Error parsing structure: 4 validation errors for StructureResource
+type
+  Input should be 'structures' [type=literal_error, input_value='properties', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/literal_error
+attributes.chemical_formula_reduced
+  Value error, Elements in 'chemical_formula_reduced' must appear in alphabetical order: ['As', 'Ga'] not ['Ga', 'As']. [type=value_error, input_value='GaAs', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/value_error
+attributes.lattice_vectors
+  List should have at least 3 items after validation, not 0 [type=too_short, input_value=[], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.9/v/too_short
+attributes.structure_features
+  Field required [type=missing, input_value={'immutable_id': 'P160126...tive of cell parameter'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-30 17:08:37,462 - ERROR - Error parsing structure: 4 validation errors for StructureResource
+type
+  Input should be 'structures' [type=literal_error, input_value='properties', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/literal_error
+attributes.chemical_formula_reduced
+  Value error, Elements in 'chemical_formula_reduced' must appear in alphabetical order: ['As', 'In'] not ['In', 'As']. [type=value_error, input_value='InAs', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/value_error
+attributes.lattice_vectors
+  List should have at least 3 items after validation, not 0 [type=too_short, input_value=[], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.9/v/too_short
+attributes.structure_features
+  Field required [type=missing, input_value={'immutable_id': 'P160126...tive of cell parameter'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-30 17:08:37,462 - ERROR - Errors encountered for http://mpod_optimade.cimav.edu.mx/: ["RuntimeError: 400 - http://mpod_optimade.cimav.edu.mx/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'space_group_symbol_hermann_mauguin', 'space_group_it_number', 'cell_formula_units_Z', 'cell_volume', 'space_group_symmetry_operations_xyz'}."]
+2024-10-30 17:08:37,462 - INFO - Processing structure npEnV8AeHDYT_f9retXIpU1dujSI with formula Ac
+2024-10-30 17:08:37,463 - ERROR - Error handling structure npEnV8AeHDYT_f9retXIpU1dujSI: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:08:37,463 - INFO - Processing structure gDRDQBVUhOywHskuSg2nW0UO5zxl with formula Ac
+2024-10-30 17:08:37,463 - ERROR - Error handling structure gDRDQBVUhOywHskuSg2nW0UO5zxl: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:08:37,463 - INFO - Processing structure CP2h3hyD2Hx2r6XifLBYcrZPX_Ob with formula Ac
+2024-10-30 17:08:37,463 - ERROR - Error handling structure CP2h3hyD2Hx2r6XifLBYcrZPX_Ob: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:08:37,463 - INFO - Processing structure 002K2okBmnbxyhkihQriUuD6lZyj with formula Ac
+2024-10-30 17:08:37,463 - ERROR - Error handling structure 002K2okBmnbxyhkihQriUuD6lZyj: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:08:37,463 - INFO - Processing structure G0veNcFHrml9J45D_ecODWhb_Wgh with formula Ac
+2024-10-30 17:08:37,463 - ERROR - Error handling structure G0veNcFHrml9J45D_ecODWhb_Wgh: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:08:37,463 - INFO - Processing structure FkHaq-QhLLTQyC0iRaa-yQ4AtZKE with formula Ac
+2024-10-30 17:08:37,463 - ERROR - Error handling structure FkHaq-QhLLTQyC0iRaa-yQ4AtZKE: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:08:37,463 - INFO - Processing structure 7eGxJbcAptuq5W9Nd801U1VKnjNI with formula Ac
+2024-10-30 17:08:37,463 - ERROR - Error handling structure 7eGxJbcAptuq5W9Nd801U1VKnjNI: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:08:37,463 - INFO - Processing structure HyyOcQRujRJePKQ7h2PBUg5nUX1J with formula Ac
+2024-10-30 17:08:37,463 - ERROR - Error handling structure HyyOcQRujRJePKQ7h2PBUg5nUX1J: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:08:37,463 - INFO - Processing structure maf_9xogfTBIkH3YnPzDhb-mD2q_ with formula Ac
+2024-10-30 17:08:37,464 - ERROR - Error handling structure maf_9xogfTBIkH3YnPzDhb-mD2q_: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:08:37,464 - INFO - Processing structure NMqCXeUQ6qb0Pre6_a0FbhoPoaiM with formula Ac
+2024-10-30 17:08:37,464 - ERROR - Error handling structure NMqCXeUQ6qb0Pre6_a0FbhoPoaiM: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:08:37,464 - INFO - Processing structure O_Q7ihQFRVoww-mIdiUN1Q8_Lhvl with formula Ac
+2024-10-30 17:08:37,464 - ERROR - Error handling structure O_Q7ihQFRVoww-mIdiUN1Q8_Lhvl: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:08:37,464 - INFO - Processing structure gDXAClujxmsGZK7sqSyZd_pJ83w7 with formula Ac
+2024-10-30 17:08:37,464 - ERROR - Error handling structure gDXAClujxmsGZK7sqSyZd_pJ83w7: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:08:37,464 - INFO - Processing structure dj5EmWxQt6FLaiordSraikNsrvQg with formula Ac
+2024-10-30 17:08:37,464 - ERROR - Error handling structure dj5EmWxQt6FLaiordSraikNsrvQg: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:08:37,464 - INFO - Processing structure hSt63XVZ8vvHbpyTFZ-UZRgBfiZp with formula Ac
+2024-10-30 17:08:37,464 - ERROR - Error handling structure hSt63XVZ8vvHbpyTFZ-UZRgBfiZp: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:08:37,464 - INFO - Processing structure YStdNC6T1q-hijyybt5ZtyZ5sAwu with formula Ac
+2024-10-30 17:08:37,464 - ERROR - Error handling structure YStdNC6T1q-hijyybt5ZtyZ5sAwu: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:08:37,464 - INFO - Processing structure TmjhXR7i_a5cLkx6xr9fCAgxwFbq with formula Ac
+2024-10-30 17:08:37,464 - ERROR - Error handling structure TmjhXR7i_a5cLkx6xr9fCAgxwFbq: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:08:37,464 - INFO - Processing structure BwaUdzlIigpf11gL3pU_Pbi8ZvoE with formula Ac
+2024-10-30 17:08:37,464 - ERROR - Error handling structure BwaUdzlIigpf11gL3pU_Pbi8ZvoE: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:08:37,464 - INFO - Processing structure pZXyrq5SSA6hiWvuCDGu6lO4Rdgk with formula Ac
+2024-10-30 17:08:37,465 - ERROR - Error handling structure pZXyrq5SSA6hiWvuCDGu6lO4Rdgk: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:08:37,465 - INFO - Processing structure UFvJSEjUdWWJ9-KpYyoygBA6k93U with formula Ac
+2024-10-30 17:08:37,465 - ERROR - Error handling structure UFvJSEjUdWWJ9-KpYyoygBA6k93U: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:08:37,465 - INFO - Processing structure v0-fShzyhsJah8rkDcM7WQAItRAp with formula Ac
+2024-10-30 17:08:37,465 - ERROR - Error handling structure v0-fShzyhsJah8rkDcM7WQAItRAp: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:08:37,465 - ERROR - Errors encountered for http://optimade.openmaterialsdb.se/: ['RuntimeError: 400 - http://optimade.openmaterialsdb.se/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad request: Response_fields contains unrecognized property name: cell_volume']
+2024-10-30 17:08:37,465 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061142, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,465 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061145, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,465 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061148, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,465 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061151, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,465 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061154, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,465 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061157, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,465 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061160, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,465 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061163, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,465 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061166, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,465 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061169, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,465 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061172, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,465 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061175, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,465 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061178, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,465 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061181, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,466 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061184, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,466 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061187, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,466 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061190, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,466 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061193, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,466 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061196, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,466 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061199, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,466 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061202, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,466 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061205, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,466 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061208, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,466 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061211, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,466 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061214, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,466 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061217, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,466 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061220, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,466 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061223, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,466 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061226, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,466 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061229, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,466 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061232, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,467 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061235, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,467 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061238, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,467 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061241, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,467 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061244, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,467 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061247, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,467 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061250, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,467 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061253, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,467 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061256, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,467 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061259, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,467 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061262, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,467 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061265, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,467 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061268, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,467 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061271, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,467 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061274, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,467 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061277, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,468 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061280, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,468 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061283, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,468 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061286, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,468 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061289, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:08:37,468 - ERROR - Error parsing structure: 1 validation error for StructureResource
+attributes.elements
+  Value error, elements must be sorted alphabetically, but is: ['O', 'Dy'] [type=value_error, input_value=['O', 'Dy'], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.9/v/value_error
+2024-10-30 17:08:37,468 - ERROR - Error parsing structure: 1 validation error for StructureResource
+attributes.elements
+  Value error, elements must be sorted alphabetically, but is: ['Cu', 'O', 'Zn', 'As'] [type=value_error, input_value=['Cu', 'O', 'Zn', 'As'], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.9/v/value_error
+2024-10-30 17:08:37,468 - ERROR - Error parsing structure: 1 validation error for StructureResource
+attributes.elements
+  Value error, elements must be sorted alphabetically, but is: ['Mg', 'N', 'Cr'] [type=value_error, input_value=['Mg', 'N', 'Cr'], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.9/v/value_error
+2024-10-30 17:08:37,468 - INFO - Processing structure 11574 with formula Mo3O8
+2024-10-30 17:08:37,468 - ERROR - Error handling structure 11574: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:08:37,468 - ERROR - Errors encountered for http://optimade.2dmatpedia.org/: ["RuntimeError: 400 - http://optimade.2dmatpedia.org/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'space_group_symbol_hermann_mauguin', 'cell_formula_units_Z', 'space_group_symmetry_operations_xyz', 'space_group_it_number', 'cell_volume'}."]
+2024-10-30 17:08:37,468 - WARNING - No metadata to save.
+2024-10-30 17:08:37,468 - INFO - Total CIF files generated: 0
+2024-10-30 17:19:42,218 - INFO - HTTP Request: GET http://optimade.openmaterialsdb.se/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:19:42,220 - INFO - HTTP Request: GET https://cmr-optimade.fysik.dtu.dk/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 302 Found"
+2024-10-30 17:19:42,333 - INFO - HTTP Request: GET https://c2db.fysik.dtu.dk/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 200 OK"
+2024-10-30 17:19:42,335 - INFO - HTTP Request: GET https://optimade.materialscloud.org/archive/c8-gy/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:19:42,371 - INFO - HTTP Request: GET https://optimade.materialscloud.org/archive/5p-vq/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:19:42,405 - INFO - HTTP Request: GET https://aiida.materialscloud.org/autowannier/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:19:42,416 - INFO - HTTP Request: GET https://aiida.materialscloud.org/2dtopo/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:19:42,426 - INFO - HTTP Request: GET http://mpod_optimade.cimav.edu.mx/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:19:42,446 - INFO - HTTP Request: GET https://aiida.materialscloud.org/mc3d/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:19:42,453 - INFO - HTTP Request: GET https://aiida.materialscloud.org/tc-applicability/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:19:42,480 - INFO - HTTP Request: GET https://aiida.materialscloud.org/tin-antimony-sulfoiodide/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:19:42,481 - INFO - HTTP Request: GET https://aflow.org/API/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 BAD REQUEST"
+2024-10-30 17:19:42,508 - INFO - HTTP Request: GET https://aiida.materialscloud.org/curated-cofs/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:19:42,519 - INFO - HTTP Request: GET https://aiida.materialscloud.org/mc2d/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:19:42,543 - INFO - HTTP Request: GET https://aiida.materialscloud.org/stoceriaitf/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:19:42,569 - INFO - HTTP Request: GET https://aiida.materialscloud.org/pyrene-mofs/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:19:42,635 - INFO - HTTP Request: GET https://jarvis.nist.gov/optimade/jarvisdft/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 301 Moved Permanently"
+2024-10-30 17:19:42,659 - INFO - HTTP Request: GET http://optimade.2dmatpedia.org/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:19:42,708 - INFO - HTTP Request: GET https://alexandria.icams.rub.de/pbesol/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:19:42,780 - INFO - HTTP Request: GET https://api.mpds.io/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 200 OK"
+2024-10-30 17:19:42,804 - INFO - HTTP Request: GET https://jarvis.nist.gov/optimade/jarvisdft/v1/structures/?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 200 OK"
+2024-10-30 17:19:43,661 - INFO - HTTP Request: GET http://mpddoptimade.phaseslab.org/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:19:43,850 - INFO - HTTP Request: GET https://optimade.materialsproject.org/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:19:44,272 - INFO - HTTP Request: GET https://oqmd.org/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 200 OK"
+2024-10-30 17:19:45,096 - INFO - HTTP Request: GET https://nomad-lab.eu/prod/rae/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 200 OK"
+2024-10-30 17:19:46,206 - INFO - HTTP Request: GET https://alexandria.icams.rub.de/pbe/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:19:47,195 - INFO - HTTP Request: GET https://optimade.materialscloud.org/archive/vg-ya/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz "HTTP/1.1 400 Bad Request"
+2024-10-30 17:19:47,219 - INFO - Successfully fetched structures from OPTIMADE providers.
+2024-10-30 17:19:47,228 - ERROR - Errors encountered for https://aflow.org/API/optimade/: ['RuntimeError: 400 - https://aflow.org/API/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: b\'{"errors": {"status": "Bad Request", "code": 400, "reason": "The property cell_volume is not known."}, "meta": {"query": {"representation": "/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz"}, "api_version": "1.1.0", "schema": "https://schemas.optimade.org/openapi/v1.1.0/optimade.json", "time_stamp": "2024-10-30T17:19:42Z", "more_data_available": false, "provider": {"name": "AFLOW", "description": "Automatic-FLOW (AFLOW) Computational Materials Data Repository", "prefix": "aflow", "homepage": "https://aflow.org"}, "implementation": {"name": "aflow-optimade-ng", "version": "ada0d743", "source_url": "https://aflow.org/install-aflow", "maintainer": {"email": "optimade@aflowlib.duke.edu"}, "issue_tracker": "https://groups.io/g/aflow"}, "data_available": 3530330, "data_returned": 0}}\'']
+2024-10-30 17:19:47,228 - ERROR - Errors encountered for https://alexandria.icams.rub.de/pbesol: ["RuntimeError: 400 - https://alexandria.icams.rub.de/pbesol/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'space_group_symmetry_operations_xyz', 'cell_volume', 'cell_formula_units_Z', 'space_group_it_number', 'space_group_symbol_hermann_mauguin'}."]
+2024-10-30 17:19:47,228 - ERROR - Errors encountered for https://alexandria.icams.rub.de/pbe: ["RuntimeError: 400 - https://alexandria.icams.rub.de/pbe/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'space_group_it_number', 'cell_formula_units_Z', 'cell_volume', 'space_group_symbol_hermann_mauguin', 'space_group_symmetry_operations_xyz'}."]
+2024-10-30 17:19:47,228 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=0, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:19:47,228 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=1, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:19:47,228 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=2, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:19:47,228 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=3, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:19:47,228 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:19:47,228 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=5, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:19:47,229 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=6, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:19:47,229 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=7, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:19:47,229 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=8, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:19:47,229 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=9, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:19:47,229 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=10, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:19:47,229 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=11, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:19:47,229 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=12, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:19:47,229 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=13, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:19:47,229 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=14, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:19:47,229 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=15, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:19:47,229 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=16, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:19:47,229 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=17, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:19:47,229 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=18, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:19:47,229 - ERROR - Error parsing structure: 2 validation errors for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=19, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+attributes.last_modified
+  Input should be a valid datetime or date, invalid character in year [type=datetime_from_date_parsing, input_value='%Y-%m-%dT%H:%M:%SZ', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/datetime_from_date_parsing
+2024-10-30 17:19:47,229 - ERROR - Errors encountered for https://aiida.materialscloud.org/mc3d/optimade: ["RuntimeError: 400 - https://aiida.materialscloud.org/mc3d/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'space_group_symbol_hermann_mauguin', 'cell_formula_units_Z', 'space_group_it_number', 'space_group_symmetry_operations_xyz', 'cell_volume'}."]
+2024-10-30 17:19:47,229 - ERROR - Errors encountered for https://aiida.materialscloud.org/mc2d/optimade: ["RuntimeError: 400 - https://aiida.materialscloud.org/mc2d/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'space_group_symmetry_operations_xyz', 'cell_volume', 'space_group_symbol_hermann_mauguin', 'cell_formula_units_Z', 'space_group_it_number'}."]
+2024-10-30 17:19:47,229 - ERROR - Errors encountered for https://aiida.materialscloud.org/2dtopo/optimade: ["RuntimeError: 400 - https://aiida.materialscloud.org/2dtopo/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'space_group_symmetry_operations_xyz', 'cell_formula_units_Z', 'space_group_symbol_hermann_mauguin', 'cell_volume', 'space_group_it_number'}."]
+2024-10-30 17:19:47,229 - ERROR - Errors encountered for https://aiida.materialscloud.org/tc-applicability/optimade: ["RuntimeError: 400 - https://aiida.materialscloud.org/tc-applicability/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'space_group_it_number', 'space_group_symmetry_operations_xyz', 'space_group_symbol_hermann_mauguin', 'cell_formula_units_Z', 'cell_volume'}."]
+2024-10-30 17:19:47,229 - ERROR - Errors encountered for https://aiida.materialscloud.org/pyrene-mofs/optimade: ["RuntimeError: 400 - https://aiida.materialscloud.org/pyrene-mofs/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'space_group_symbol_hermann_mauguin', 'cell_formula_units_Z', 'space_group_it_number', 'cell_volume', 'space_group_symmetry_operations_xyz'}."]
+2024-10-30 17:19:47,229 - ERROR - Errors encountered for https://aiida.materialscloud.org/curated-cofs/optimade: ["RuntimeError: 400 - https://aiida.materialscloud.org/curated-cofs/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'space_group_symmetry_operations_xyz', 'cell_formula_units_Z', 'space_group_it_number', 'cell_volume', 'space_group_symbol_hermann_mauguin'}."]
+2024-10-30 17:19:47,230 - ERROR - Errors encountered for https://aiida.materialscloud.org/stoceriaitf/optimade: ["RuntimeError: 400 - https://aiida.materialscloud.org/stoceriaitf/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'cell_volume', 'space_group_symmetry_operations_xyz', 'space_group_it_number', 'space_group_symbol_hermann_mauguin', 'cell_formula_units_Z'}."]
+2024-10-30 17:19:47,230 - ERROR - Errors encountered for https://aiida.materialscloud.org/autowannier/optimade: ["RuntimeError: 400 - https://aiida.materialscloud.org/autowannier/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'cell_formula_units_Z', 'space_group_it_number', 'space_group_symbol_hermann_mauguin', 'cell_volume', 'space_group_symmetry_operations_xyz'}."]
+2024-10-30 17:19:47,230 - ERROR - Errors encountered for https://aiida.materialscloud.org/tin-antimony-sulfoiodide/optimade: ["RuntimeError: 400 - https://aiida.materialscloud.org/tin-antimony-sulfoiodide/optimade/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'cell_volume', 'cell_formula_units_Z', 'space_group_symbol_hermann_mauguin', 'space_group_it_number', 'space_group_symmetry_operations_xyz'}."]
+2024-10-30 17:19:47,230 - ERROR - Errors encountered for https://optimade.materialscloud.org/archive/c8-gy: ["RuntimeError: 400 - https://optimade.materialscloud.org/archive/c8-gy/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'cell_formula_units_Z', 'space_group_symmetry_operations_xyz', 'space_group_symbol_hermann_mauguin', 'space_group_it_number', 'cell_volume'}."]
+2024-10-30 17:19:47,230 - ERROR - Errors encountered for https://optimade.materialscloud.org/archive/5p-vq: ["RuntimeError: 400 - https://optimade.materialscloud.org/archive/5p-vq/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'space_group_it_number', 'cell_volume', 'space_group_symbol_hermann_mauguin', 'cell_formula_units_Z', 'space_group_symmetry_operations_xyz'}."]
+2024-10-30 17:19:47,230 - ERROR - Errors encountered for https://optimade.materialscloud.org/archive/vg-ya: ["RuntimeError: 400 - https://optimade.materialscloud.org/archive/vg-ya/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'space_group_symbol_hermann_mauguin', 'space_group_it_number', 'space_group_symmetry_operations_xyz', 'cell_volume', 'cell_formula_units_Z'}."]
+2024-10-30 17:19:47,230 - ERROR - Errors encountered for https://optimade.materialsproject.org/: ["RuntimeError: 400 - https://optimade.materialsproject.org/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'space_group_it_number', 'space_group_symmetry_operations_xyz', 'cell_formula_units_Z', 'space_group_symbol_hermann_mauguin', 'cell_volume'}."]
+2024-10-30 17:19:47,230 - ERROR - Errors encountered for http://mpddoptimade.phaseslab.org/: ["RuntimeError: 400 - http://mpddoptimade.phaseslab.org/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'cell_volume', 'cell_formula_units_Z', 'space_group_symbol_hermann_mauguin', 'space_group_symmetry_operations_xyz', 'space_group_it_number'}."]
+2024-10-30 17:19:47,230 - ERROR - Error parsing structure: 4 validation errors for StructureResource
+type
+  Input should be 'structures' [type=literal_error, input_value='properties', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/literal_error
+attributes.chemical_formula_reduced
+  Value error, Elements in 'chemical_formula_reduced' must appear in alphabetical order: ['Ga', 'Ni', 'U'] not ['U', 'Ni', 'Ga']. [type=value_error, input_value='UNiGa', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/value_error
+attributes.lattice_vectors
+  List should have at least 3 items after validation, not 0 [type=too_short, input_value=[], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.9/v/too_short
+attributes.structure_features
+  Field required [type=missing, input_value={'immutable_id': 'P152192...'cell parameter change'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-30 17:19:47,230 - ERROR - Error parsing structure: 4 validation errors for StructureResource
+type
+  Input should be 'structures' [type=literal_error, input_value='properties', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/literal_error
+attributes.chemical_formula_reduced
+  Value error, Elements in 'chemical_formula_reduced' must appear in alphabetical order: ['Ga', 'Ni', 'U'] not ['U', 'Ni', 'Ga']. [type=value_error, input_value='UNiGa', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/value_error
+attributes.lattice_vectors
+  List should have at least 3 items after validation, not 0 [type=too_short, input_value=[], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.9/v/too_short
+attributes.structure_features
+  Field required [type=missing, input_value={'immutable_id': 'P152192...'cell parameter change'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-30 17:19:47,230 - ERROR - Error parsing structure: 4 validation errors for StructureResource
+type
+  Input should be 'structures' [type=literal_error, input_value='properties', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/literal_error
+attributes.chemical_formula_reduced
+  Value error, Elements in 'chemical_formula_reduced' must appear in alphabetical order: ['Ga', 'Ni', 'U'] not ['U', 'Ni', 'Ga']. [type=value_error, input_value='UNiGa', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/value_error
+attributes.lattice_vectors
+  List should have at least 3 items after validation, not 0 [type=too_short, input_value=[], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.9/v/too_short
+attributes.structure_features
+  Field required [type=missing, input_value={'immutable_id': 'P152192...'cell parameter change'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-30 17:19:47,230 - ERROR - Error parsing structure: 5 validation errors for StructureResource
+type
+  Input should be 'structures' [type=literal_error, input_value='properties', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/literal_error
+attributes.chemical_formula_reduced
+  String should match pattern '(^$)|^([A-Z][a-z]?([2-9]|[1-9]\d+)?)+$' [type=string_pattern_mismatch, input_value='K0.25TiPb0.5Bi0.25O3', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_pattern_mismatch
+attributes.chemical_formula_anonymous
+  Value error, not enough values to unpack (expected 2, got 0) [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/value_error
+attributes.lattice_vectors
+  List should have at least 3 items after validation, not 0 [type=too_short, input_value=[], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.9/v/too_short
+attributes.structure_features
+  Field required [type=missing, input_value={'immutable_id': 'P152336...ge at phase transition'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-30 17:19:47,230 - ERROR - Error parsing structure: 4 validation errors for StructureResource
+type
+  Input should be 'structures' [type=literal_error, input_value='properties', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/literal_error
+attributes.chemical_formula_reduced
+  String should match pattern '(^$)|^([A-Z][a-z]?([2-9]|[1-9]\d+)?)+$' [type=string_pattern_mismatch, input_value='K0.2TiPb0.4Bi0.2O3', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_pattern_mismatch
+attributes.lattice_vectors
+  List should have at least 3 items after validation, not 0 [type=too_short, input_value=[], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.9/v/too_short
+attributes.structure_features
+  Field required [type=missing, input_value={'immutable_id': 'P152336...ge at phase transition'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-30 17:19:47,230 - ERROR - Error parsing structure: 4 validation errors for StructureResource
+type
+  Input should be 'structures' [type=literal_error, input_value='properties', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/literal_error
+attributes.chemical_formula_reduced
+  Value error, Elements in 'chemical_formula_reduced' must appear in alphabetical order: ['O', 'Pb', 'Ti'] not ['Ti', 'Pb', 'O']. [type=value_error, input_value='TiPbO3', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/value_error
+attributes.lattice_vectors
+  List should have at least 3 items after validation, not 0 [type=too_short, input_value=[], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.9/v/too_short
+attributes.structure_features
+  Field required [type=missing, input_value={'immutable_id': 'P152337...ge at phase transition'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-30 17:19:47,231 - ERROR - Error parsing structure: 4 validation errors for StructureResource
+type
+  Input should be 'structures' [type=literal_error, input_value='properties', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/literal_error
+attributes.chemical_formula_reduced
+  Value error, Elements in 'chemical_formula_reduced' must appear in alphabetical order: ['O', 'Pb', 'Ti'] not ['Ti', 'Pb', 'O']. [type=value_error, input_value='TiPbO3', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/value_error
+attributes.lattice_vectors
+  List should have at least 3 items after validation, not 0 [type=too_short, input_value=[], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.9/v/too_short
+attributes.structure_features
+  Field required [type=missing, input_value={'immutable_id': 'P152337...ge at phase transition'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-30 17:19:47,231 - ERROR - Error parsing structure: 4 validation errors for StructureResource
+type
+  Input should be 'structures' [type=literal_error, input_value='properties', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/literal_error
+attributes.chemical_formula_reduced
+  Value error, Elements in 'chemical_formula_reduced' must appear in alphabetical order: ['O', 'Te'] not ['Te', 'O']. [type=value_error, input_value='TeO2', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/value_error
+attributes.lattice_vectors
+  List should have at least 3 items after validation, not 0 [type=too_short, input_value=[], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.9/v/too_short
+attributes.structure_features
+  Field required [type=missing, input_value={'immutable_id': 'P160118...ence of cell parameter'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-30 17:19:47,231 - ERROR - Error parsing structure: 4 validation errors for StructureResource
+type
+  Input should be 'structures' [type=literal_error, input_value='properties', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/literal_error
+attributes.chemical_formula_reduced
+  Value error, Elements in 'chemical_formula_reduced' must appear in alphabetical order: ['As', 'Ga'] not ['Ga', 'As']. [type=value_error, input_value='GaAs', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/value_error
+attributes.lattice_vectors
+  List should have at least 3 items after validation, not 0 [type=too_short, input_value=[], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.9/v/too_short
+attributes.structure_features
+  Field required [type=missing, input_value={'immutable_id': 'P160126...tive of cell parameter'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-30 17:19:47,231 - ERROR - Error parsing structure: 4 validation errors for StructureResource
+type
+  Input should be 'structures' [type=literal_error, input_value='properties', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/literal_error
+attributes.chemical_formula_reduced
+  Value error, Elements in 'chemical_formula_reduced' must appear in alphabetical order: ['As', 'In'] not ['In', 'As']. [type=value_error, input_value='InAs', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.9/v/value_error
+attributes.lattice_vectors
+  List should have at least 3 items after validation, not 0 [type=too_short, input_value=[], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.9/v/too_short
+attributes.structure_features
+  Field required [type=missing, input_value={'immutable_id': 'P160126...tive of cell parameter'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-30 17:19:47,231 - ERROR - Errors encountered for http://mpod_optimade.cimav.edu.mx/: ["RuntimeError: 400 - http://mpod_optimade.cimav.edu.mx/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'space_group_symbol_hermann_mauguin', 'space_group_it_number', 'cell_formula_units_Z', 'cell_volume', 'space_group_symmetry_operations_xyz'}."]
+2024-10-30 17:19:47,231 - INFO - Processing structure npEnV8AeHDYT_f9retXIpU1dujSI with formula Ac
+2024-10-30 17:19:47,231 - ERROR - Error handling structure npEnV8AeHDYT_f9retXIpU1dujSI: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:19:47,231 - INFO - Processing structure gDRDQBVUhOywHskuSg2nW0UO5zxl with formula Ac
+2024-10-30 17:19:47,231 - ERROR - Error handling structure gDRDQBVUhOywHskuSg2nW0UO5zxl: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:19:47,231 - INFO - Processing structure CP2h3hyD2Hx2r6XifLBYcrZPX_Ob with formula Ac
+2024-10-30 17:19:47,231 - ERROR - Error handling structure CP2h3hyD2Hx2r6XifLBYcrZPX_Ob: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:19:47,232 - INFO - Processing structure 002K2okBmnbxyhkihQriUuD6lZyj with formula Ac
+2024-10-30 17:19:47,232 - ERROR - Error handling structure 002K2okBmnbxyhkihQriUuD6lZyj: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:19:47,232 - INFO - Processing structure G0veNcFHrml9J45D_ecODWhb_Wgh with formula Ac
+2024-10-30 17:19:47,232 - ERROR - Error handling structure G0veNcFHrml9J45D_ecODWhb_Wgh: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:19:47,232 - INFO - Processing structure FkHaq-QhLLTQyC0iRaa-yQ4AtZKE with formula Ac
+2024-10-30 17:19:47,232 - ERROR - Error handling structure FkHaq-QhLLTQyC0iRaa-yQ4AtZKE: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:19:47,232 - INFO - Processing structure 7eGxJbcAptuq5W9Nd801U1VKnjNI with formula Ac
+2024-10-30 17:19:47,232 - ERROR - Error handling structure 7eGxJbcAptuq5W9Nd801U1VKnjNI: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:19:47,232 - INFO - Processing structure HyyOcQRujRJePKQ7h2PBUg5nUX1J with formula Ac
+2024-10-30 17:19:47,232 - ERROR - Error handling structure HyyOcQRujRJePKQ7h2PBUg5nUX1J: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:19:47,232 - INFO - Processing structure maf_9xogfTBIkH3YnPzDhb-mD2q_ with formula Ac
+2024-10-30 17:19:47,232 - ERROR - Error handling structure maf_9xogfTBIkH3YnPzDhb-mD2q_: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:19:47,232 - INFO - Processing structure NMqCXeUQ6qb0Pre6_a0FbhoPoaiM with formula Ac
+2024-10-30 17:19:47,233 - ERROR - Error handling structure NMqCXeUQ6qb0Pre6_a0FbhoPoaiM: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:19:47,233 - INFO - Processing structure O_Q7ihQFRVoww-mIdiUN1Q8_Lhvl with formula Ac
+2024-10-30 17:19:47,233 - ERROR - Error handling structure O_Q7ihQFRVoww-mIdiUN1Q8_Lhvl: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:19:47,233 - INFO - Processing structure gDXAClujxmsGZK7sqSyZd_pJ83w7 with formula Ac
+2024-10-30 17:19:47,233 - ERROR - Error handling structure gDXAClujxmsGZK7sqSyZd_pJ83w7: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:19:47,233 - INFO - Processing structure dj5EmWxQt6FLaiordSraikNsrvQg with formula Ac
+2024-10-30 17:19:47,233 - ERROR - Error handling structure dj5EmWxQt6FLaiordSraikNsrvQg: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:19:47,233 - INFO - Processing structure hSt63XVZ8vvHbpyTFZ-UZRgBfiZp with formula Ac
+2024-10-30 17:19:47,233 - ERROR - Error handling structure hSt63XVZ8vvHbpyTFZ-UZRgBfiZp: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:19:47,233 - INFO - Processing structure YStdNC6T1q-hijyybt5ZtyZ5sAwu with formula Ac
+2024-10-30 17:19:47,233 - ERROR - Error handling structure YStdNC6T1q-hijyybt5ZtyZ5sAwu: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:19:47,234 - INFO - Processing structure TmjhXR7i_a5cLkx6xr9fCAgxwFbq with formula Ac
+2024-10-30 17:19:47,234 - ERROR - Error handling structure TmjhXR7i_a5cLkx6xr9fCAgxwFbq: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:19:47,234 - INFO - Processing structure BwaUdzlIigpf11gL3pU_Pbi8ZvoE with formula Ac
+2024-10-30 17:19:47,234 - ERROR - Error handling structure BwaUdzlIigpf11gL3pU_Pbi8ZvoE: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:19:47,234 - INFO - Processing structure pZXyrq5SSA6hiWvuCDGu6lO4Rdgk with formula Ac
+2024-10-30 17:19:47,234 - ERROR - Error handling structure pZXyrq5SSA6hiWvuCDGu6lO4Rdgk: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:19:47,234 - INFO - Processing structure UFvJSEjUdWWJ9-KpYyoygBA6k93U with formula Ac
+2024-10-30 17:19:47,234 - ERROR - Error handling structure UFvJSEjUdWWJ9-KpYyoygBA6k93U: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:19:47,234 - INFO - Processing structure v0-fShzyhsJah8rkDcM7WQAItRAp with formula Ac
+2024-10-30 17:19:47,234 - ERROR - Error handling structure v0-fShzyhsJah8rkDcM7WQAItRAp: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:19:47,235 - ERROR - Errors encountered for http://optimade.openmaterialsdb.se/: ['RuntimeError: 400 - http://optimade.openmaterialsdb.se/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad request: Response_fields contains unrecognized property name: cell_volume']
+2024-10-30 17:19:47,235 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061142, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,235 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061145, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,236 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061148, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,236 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061151, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,236 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061154, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,236 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061157, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,236 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061160, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,236 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061163, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,236 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061166, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,236 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061169, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,237 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061172, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,237 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061175, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,237 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061178, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,237 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061181, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,237 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061184, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,237 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061187, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,237 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061190, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,237 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061193, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,237 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061196, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,237 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061199, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,237 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061202, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,237 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061205, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,237 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061208, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,237 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061211, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,238 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061214, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,238 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061217, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,238 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061220, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,238 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061223, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,238 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061226, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,238 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061229, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,238 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061232, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,238 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061235, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,238 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061238, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,238 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061241, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,238 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061244, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,238 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061247, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,238 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061250, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,238 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061253, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,238 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061256, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,239 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061259, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,239 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061262, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,239 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061265, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,239 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061268, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,239 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061271, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,239 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061274, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,239 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061277, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,239 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061280, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,239 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061283, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,239 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061286, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,239 - ERROR - Error parsing structure: 1 validation error for StructureResource
+id
+  Input should be a valid string [type=string_type, input_value=4061289, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2024-10-30 17:19:47,240 - ERROR - Error parsing structure: 1 validation error for StructureResource
+attributes.elements
+  Value error, elements must be sorted alphabetically, but is: ['O', 'Dy'] [type=value_error, input_value=['O', 'Dy'], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.9/v/value_error
+2024-10-30 17:19:47,240 - ERROR - Error parsing structure: 1 validation error for StructureResource
+attributes.elements
+  Value error, elements must be sorted alphabetically, but is: ['Cu', 'O', 'Zn', 'As'] [type=value_error, input_value=['Cu', 'O', 'Zn', 'As'], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.9/v/value_error
+2024-10-30 17:19:47,240 - ERROR - Error parsing structure: 1 validation error for StructureResource
+attributes.elements
+  Value error, elements must be sorted alphabetically, but is: ['Mg', 'N', 'Cr'] [type=value_error, input_value=['Mg', 'N', 'Cr'], input_type=list]
+    For further information visit https://errors.pydantic.dev/2.9/v/value_error
+2024-10-30 17:19:47,240 - INFO - Processing structure 11574 with formula Mo3O8
+2024-10-30 17:19:47,240 - ERROR - Error handling structure 11574: 'StructureResourceAttributes' object has no attribute 'space_group_symbol_hermann_mauguin'
+2024-10-30 17:19:47,240 - ERROR - Errors encountered for http://optimade.2dmatpedia.org/: ["RuntimeError: 400 - http://optimade.2dmatpedia.org/v1/structures?response_fields=id,lattice_vectors,cartesian_site_positions,species,species_at_sites,nsites,last_modified,structure_features,elements,chemical_formula_descriptive,chemical_formula_reduced,cell_volume,cell_formula_units_Z,space_group_symbol_hermann_mauguin,space_group_it_number,space_group_symmetry_operations_xyz: Bad Request: Unrecognised OPTIMADE field(s) in requested `response_fields`: {'space_group_symbol_hermann_mauguin', 'cell_formula_units_Z', 'space_group_symmetry_operations_xyz', 'space_group_it_number', 'cell_volume'}."]
+2024-10-30 17:19:47,240 - WARNING - No metadata to save.
+2024-10-30 17:19:47,241 - INFO - Total CIF files generated: 0
